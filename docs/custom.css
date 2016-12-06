@@ -15,10 +15,13 @@
     li {
         margin-bottom: 1em;
     }
-    h1 {
+ h1 {
         font-family: Helvetica, serif;
     }
-    h4{
+ h3 {
+    font-family: "Raleway", Times, serif;
+ }
+ h4{
         margin-top: 12px;
         margin-bottom: 3px;
        }
